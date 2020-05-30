@@ -1,0 +1,5 @@
+Никита:
+class item
+Соня:
+class goods
+class system
